@@ -1,5 +1,7 @@
   
-<img align="center" width="100%" height="400px" src="https://topsoftwarecompanies.co/front_assets/img/blog/React_For_Front-End_Development.jpg" onclick="return false"/>
+
+<img align="center" width="100%" height="400px" src="https://topsoftwarecompanies.co/front_assets/img/blog/React_For_Front-End_Development.jpg" onclick="return false;">
+
 <h1 align="center">Hi 👋, I'm Kamil Karaisli</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
