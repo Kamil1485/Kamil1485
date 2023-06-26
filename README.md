@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Kamil Karaisli</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **React,HTML-CSS,Javascript**
 
